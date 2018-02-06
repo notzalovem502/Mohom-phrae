@@ -27,4 +27,21 @@ font-style: normal;
 .font-special-style{
     font-family: 'thai_sans_literegular', Lucida, Verdana, sans-serif;
 }
+
+.gallery-zone img{
+   border: 7px solid #173c59;
+
+}
+
+.bg-gallery{
+	background-color: #173c59;
+}
+
+.bg-header{
+	background-color: #0c4e81;
+}
+
+.bg-map{
+	background-color: #222630;
+}
 /* @end */
