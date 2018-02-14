@@ -44,4 +44,13 @@ font-style: normal;
 .bg-map{
 	background-color: #222630;
 }
+
+.banner-history h2 {
+	line-height: 0.7em;
+
+}
+
+.banner-history{
+	background-image: url('../../assets/img-page/striped/linephotosmall-1.jpg');
+}
 /* @end */
