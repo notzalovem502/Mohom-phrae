@@ -41,6 +41,10 @@ font-style: normal;
 	background-color: #0c4e81;
 }
 
+.bg-all-boby{
+	background-color: #e0e0e0;
+}
+
 .bg-map{
 	background-color: #222630;
 }
@@ -50,7 +54,27 @@ font-style: normal;
 
 }
 
+.bg-index{
+	background-image: url('../../assets/img-page/striped/linephotosmall-4.jpg');
+}
+
 .banner-history{
 	background-image: url('../../assets/img-page/striped/linephotosmall-1.jpg');
+}
+
+.banner-contact{
+	background-image: url('../../assets/img-page/striped/linephotosmall-2.jpg');
+}
+
+.banner-step-mohom{
+	background-image: url('../../assets/img-page/striped/photobigsmall-2.jpg');
+}
+
+.banner-step-water{
+	background-image: url('../../assets/img-page/striped/photobigsmall-2.jpg');
+}
+
+.banner-video{
+	background-image: url('../../assets/img-page/striped/photobigsmall-2.jpg');
 }
 /* @end */
