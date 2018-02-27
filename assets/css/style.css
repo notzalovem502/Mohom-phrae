@@ -74,4 +74,12 @@ font-style: normal;
 .banner-video{
 	background-image: url('../../assets/img-page/striped/photobigsmall-1.jpg');
 }
+
+.videoWrapper iframe {
+	position:;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 /* @end */
